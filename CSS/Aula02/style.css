@@ -1,0 +1,28 @@
+/* id: é um seletor que seleciona um único elemento com um identificador específico. */
+/*Como se fosse um CPF*/
+#div1 h1 {
+    color: blue;
+    font-size: 24px;
+    text-align: center;
+}
+#div2 h1 {
+    color: red;
+    font-size: 24px;
+    text-align: center;
+}
+
+/* class: é um seletor que seleciona todos os elementos com uma classe específica. */
+/*Como se fosse um classe social*/
+.div1 {
+    background-color: lightblue;
+    padding: 20px;
+    border: 2px solid blue;
+}
+
+.div2 {
+    background-color: lightcoral;
+    padding: 20px;
+    border: 2px solid red;
+}
+
+
